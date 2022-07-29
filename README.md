@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D3V4N2K4
+- 👋 Hi, I’m @D3V4N
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on frontend development
